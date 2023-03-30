@@ -1,6 +1,6 @@
 # IBM-Data-Science-Professional-Certificate
 
-Note: Recommend viewing this at nbviewer.org as I used the folium library to visualize the maps and they will not render on GitHub. Here's a link for convienence:
+Please note that to view the maps in this notebook, it is recommended that you use nbviewer.org instead of GitHub. The maps were created using the Folium library, and may not render properly on GitHub. To make it easier for you, here's a link to nbviewer.org.
 
 https://nbviewer.org/github/garretgrimes/IBM-Data-Science-Professional-Certificate/blob/main/Analyzing_Austin_TX_Neighborhoods_IBM_Capstone.ipynb
 
