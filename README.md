@@ -1,6 +1,7 @@
 # IBM-Data-Science-Professional-Certificate
 
 Note: Recommend viewing this at nbviewer.org as I used the folium library to visualize the maps and they will not render on GitHub. Here's a link for convienence:
+
 https://nbviewer.org/github/garretgrimes/IBM-Data-Science-Professional-Certificate/blob/main/Analyzing_Austin_TX_Neighborhoods_IBM_Capstone.ipynb
 
 For my IBM Data Science Professional Certificate I analyzed downtown Austin, TX to determine an optimal location for a new fusion food truck and bar. To gather and visualize data on potential locations, I utilized several tools, including BeautifulSoup, GeoPy, and an API to FourSquare.
